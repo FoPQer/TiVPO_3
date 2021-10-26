@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Scanner;
 
 public class Creator {
     File file = new File("D://TiVPO_3//Main.txt");
